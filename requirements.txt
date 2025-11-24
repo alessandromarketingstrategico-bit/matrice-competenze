@@ -1,2 +1,2 @@
-streamlit
-numpy
+streamlit>=1.31
+pandas>=1.5
